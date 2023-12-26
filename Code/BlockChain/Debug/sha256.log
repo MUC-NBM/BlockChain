@@ -1,0 +1,39 @@
+﻿  block.cpp
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\block.h(8,29): warning C4091: “typedef ”: 没有声明变量时忽略“ts_link_queue”的左侧
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\block.cpp(171,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\block.cpp(175,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\block.cpp(179,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\block.cpp(262,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\block.cpp(264,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\block.cpp(266,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hashQueue.cpp
+  safe.cpp
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\block.h(8,29): warning C4091: “typedef ”: 没有声明变量时忽略“ts_link_queue”的左侧
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\safe.cpp(76,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\safe.cpp(80,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\safe.cpp(84,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\safe.cpp(122,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\safe.cpp(126,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\safe.cpp(130,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  blockTest.cpp
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\blockTest.cpp(122,21): warning C4244: “=”: 从“unsigned __int64”转换到“BYTE”，可能丢失数据
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\blockTest.cpp(123,30): warning C4244: “=”: 从“unsigned __int64”转换到“BYTE”，可能丢失数据
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\blockTest.cpp(124,30): warning C4244: “=”: 从“unsigned __int64”转换到“BYTE”，可能丢失数据
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\blockTest.cpp(125,30): warning C4244: “=”: 从“unsigned __int64”转换到“BYTE”，可能丢失数据
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\blockTest.cpp(126,30): warning C4244: “=”: 从“unsigned __int64”转换到“BYTE”，可能丢失数据
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\blockTest.cpp(127,30): warning C4244: “=”: 从“unsigned __int64”转换到“BYTE”，可能丢失数据
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\blockTest.cpp(128,30): warning C4244: “=”: 从“unsigned __int64”转换到“BYTE”，可能丢失数据
+  tsQueue.cpp
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\tsQueue.cpp(10,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\tsQueue.cpp(12,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\tsQueue.cpp(14,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\tsQueue.cpp(16,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  workProof.cpp
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\block.h(8,29): warning C4091: “typedef ”: 没有声明变量时忽略“ts_link_queue”的左侧
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\workProof.cpp(43,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  run.cpp
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\block.h(8,29): warning C4091: “typedef ”: 没有声明变量时忽略“ts_link_queue”的左侧
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\run.cpp(62,104): warning C4474: printf: 格式字符串中传递的参数太多
+E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\run.cpp(62,104): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  sha256.vcxproj -> E:\大三作业\数据结构\区块链\BlockChain\Code\BlockChain\Debug\blockTest.exe
